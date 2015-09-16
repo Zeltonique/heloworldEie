@@ -1,11 +1,12 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Your name goes here</title>
+        <title>Zeltonique's Website</title>
     </head>
     <body>
         <?php
-            echo "<h1>Hello World</h1>";
+            $welcome="Helloo and welcome to Zeltonique's Website";
+            echo $welcome;
         ?>
     </body>
 </html>
